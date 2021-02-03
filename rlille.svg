@@ -5,11 +5,38 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
    viewBox="0 0 43.899999 50.799998"
    height="5.0799999cm"
-   width="4.3899999cm">
+   width="4.3899999cm"
+   sodipodi:docname="rlille.svg"
+   inkscape:export-filename="D:\Profils\mcanouil\PROJECTS\logos\rlille2.png"
+   inkscape:export-xdpi="1278.679"
+   inkscape:export-ydpi="1278.679"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="9.8333335"
+     inkscape:cx="103.03565"
+     inkscape:cy="12.424081"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
   <defs
      id="defs2">
     <linearGradient
@@ -61,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,11 +174,29 @@
        id="text860"
        y="28.919029"
        x="3.4215865"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:'Harlow Solid Italic';letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'Harlow Solid Italic, ';font-stretch:normal;font-variant:normal;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Harlow Solid Italic';-inkscape-font-specification:'Harlow Solid Italic, ';fill:#d40000;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Harlow Solid Italic';-inkscape-font-specification:'Harlow Solid Italic, ';fill:#d40000;stroke-width:0.26458332;"
          y="28.919029"
          x="3.4215865"
          id="tspan858">Lille</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.84143448px;line-height:1.25;font-family:'Harlow Solid Italic';-inkscape-font-specification:'Harlow Solid Italic, ';letter-spacing:0px;word-spacing:0px;fill:#b8babe;fill-opacity:1;stroke:none;stroke-width:0.04603585"
+       x="-4.9851155"
+       y="53.220448"
+       id="text4551"
+       transform="rotate(-30.022354)"><tspan
+         sodipodi:role="line"
+         id="tspan4549"
+         x="-4.9851155"
+         y="53.220448"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Harlow Solid Italic';-inkscape-font-specification:'Harlow Solid Italic, ';fill:#b8babe;fill-opacity:1;stroke-width:0.04603585">www.rlille.fr</tspan></text>
   </g>
 </svg>
