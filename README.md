@@ -1,4 +1,4 @@
-# Logos <img src="rlille.svg" align="right" width="120" />
+# Logos <a href="https://github.com/RLille/"><img src="https://avatars1.githubusercontent.com/u/60702180" align="right" width="120" /></a>
 
 <!-- badges: start -->
 [![License](https://img.shields.io/github/license/RLille/logos)](LICENSE)
